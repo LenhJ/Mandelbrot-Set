@@ -1,0 +1,6 @@
+﻿  ComplexPlane.cpp
+C:\Users\Gay Balls\source\repos\MandelbrotSet\MandelbrotSet\ComplexPlane.cpp(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gay Balls\source\repos\MandelbrotSet\MandelbrotSet\ComplexPlane.cpp(55,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gay Balls\source\repos\MandelbrotSet\MandelbrotSet\ComplexPlane.cpp(63,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Gay Balls\source\repos\MandelbrotSet\MandelbrotSet\ComplexPlane.cpp(64,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MandelbrotSet.vcxproj -> C:\Users\Gay Balls\source\repos\MandelbrotSet\x64\Debug\MandelbrotSet.exe
