@@ -1,9 +1,9 @@
 // Include important C++ libraries here
 #include <SFML/Graphics.hpp>
-#include <SFML/Audio.hpp>
 #include <iostream>
 #include <sstream>
 #include <vector>
+#include <complex>
 #include "ComplexPlane.h"
 
 // Namespaces
